@@ -1,0 +1,5 @@
+/Users/konstantinkepke/CPP_PRJ/helloworld/build/CMakeFiles/hello2.dir
+/Users/konstantinkepke/CPP_PRJ/helloworld/build/CMakeFiles/message-objs.dir
+/Users/konstantinkepke/CPP_PRJ/helloworld/build/CMakeFiles/message-a.dir
+/Users/konstantinkepke/CPP_PRJ/helloworld/build/CMakeFiles/edit_cache.dir
+/Users/konstantinkepke/CPP_PRJ/helloworld/build/CMakeFiles/rebuild_cache.dir

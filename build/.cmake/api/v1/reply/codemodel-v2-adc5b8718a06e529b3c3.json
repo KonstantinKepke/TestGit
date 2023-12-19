@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "helloworld",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "hello2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-hello2-Debug-9a7ea4977465715a9db1.json",
+					"name" : "hello2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "message-a::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-message-a-Debug-9a7506b74f08299a73d1.json",
+					"name" : "message-a",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "message-objs::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-message-objs-Debug-2f0255a058abc5d3ede9.json",
+					"name" : "message-objs",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/konstantinkepke/CPP_PRJ/helloworld/build",
+		"source" : "/Users/konstantinkepke/CPP_PRJ/helloworld"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

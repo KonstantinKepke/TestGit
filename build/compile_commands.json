@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/Users/konstantinkepke/CPP_PRJ/helloworld/build",
+  "command": "/usr/bin/clang++   -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -o CMakeFiles/hello2.dir/hello.cpp.o -c /Users/konstantinkepke/CPP_PRJ/helloworld/hello.cpp",
+  "file": "/Users/konstantinkepke/CPP_PRJ/helloworld/hello.cpp",
+  "output": "CMakeFiles/hello2.dir/hello.cpp.o"
+},
+{
+  "directory": "/Users/konstantinkepke/CPP_PRJ/helloworld/build",
+  "command": "/usr/bin/clang++   -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -Wall -fPIC -o CMakeFiles/message-objs.dir/hello.cpp.o -c /Users/konstantinkepke/CPP_PRJ/helloworld/hello.cpp",
+  "file": "/Users/konstantinkepke/CPP_PRJ/helloworld/hello.cpp",
+  "output": "CMakeFiles/message-objs.dir/hello.cpp.o"
+}
+]
